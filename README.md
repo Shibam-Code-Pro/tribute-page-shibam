@@ -1,4 +1,4 @@
-# 🚀 Shibam Banerjee - Marie Curie Tribute Page
+# 🚀 Marie Curie Tribute Page
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,7 +16,7 @@ A beautiful, responsive tribute page dedicated to Dr. Marie Curie, the pioneerin
 
 ## ✨ Live Demo
 
-🌐 **[View Live Demo](https://your-live-demo-link.com)** *(Update after deployment)*
+🌐 **[View Marie Curie Tribute Page](https://tribute-page-shibam.vercel.app)**
 
 ## 🚀 Key Features
 
